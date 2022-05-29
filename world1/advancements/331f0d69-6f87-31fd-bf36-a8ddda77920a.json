@@ -11,15 +11,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/purple_wool": {
+  "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
-      "has_white_wool": "2022-05-27 17:39:05 +0200"
+      "has_gray_wool": "2022-05-30 00:47:53 +0200"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2022-05-27 17:38:39 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-27 17:39:05 +0200"
     },
     "done": true
   },
@@ -71,6 +77,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_mutton": "2022-05-30 00:50:50 +0200"
+    },
+    "done": false
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2022-05-27 17:38:01 +0200"
@@ -95,15 +107,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "minecraft:recipes/decorations/black_banner": {
     "criteria": {
-      "has_leather": "2022-05-27 17:42:37 +0200"
+      "has_black_wool": "2022-05-30 00:47:56 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2022-05-30 00:47:53 +0200"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2022-05-27 17:39:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2022-05-27 17:42:37 +0200"
     },
     "done": true
   },
@@ -115,9 +139,9 @@
     },
     "done": false
   },
-  "minecraft:recipes/building_blocks/magenta_wool": {
+  "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
-      "has_white_wool": "2022-05-27 17:39:05 +0200"
+      "has_gray_wool": "2022-05-30 00:47:53 +0200"
     },
     "done": true
   },
@@ -127,7 +151,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/orange_wool": {
+  "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2022-05-27 17:39:05 +0200"
     },
@@ -136,6 +160,18 @@
   "simplyjetpacks:vanilla/root_vanilla": {
     "criteria": {
       "code_trigger": "2022-05-27 17:36:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-27 17:39:05 +0200"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2022-05-30 00:50:50 +0200"
     },
     "done": true
   },
@@ -157,15 +193,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_wool": {
-    "criteria": {
-      "has_white_wool": "2022-05-27 17:39:05 +0200"
-    },
-    "done": true
-  },
   "simplyjetpacks:root": {
     "criteria": {
       "location": "2022-05-27 17:38:03 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-27 17:39:05 +0200"
     },
     "done": true
   },
@@ -193,6 +229,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2022-05-30 00:47:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2022-05-27 17:39:05 +0200"
@@ -202,6 +244,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2022-05-27 17:42:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2022-05-30 00:47:56 +0200"
     },
     "done": true
   },
