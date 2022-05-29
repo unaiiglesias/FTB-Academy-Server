@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2022-05-29 17:45:47 +0200"
+    },
+    "done": true
+  },
   "astralsorcery:root": {
     "criteria": {
       "astralsorcery_present": "2022-05-27 17:38:02 +0200"
@@ -71,17 +77,17 @@
     },
     "done": true
   },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2022-05-29 00:34:58 +0200"
-    },
-    "done": true
-  },
   "twilightforest:progress_naga": {
     "criteria": {
       "scale": "2022-05-28 23:27:52 +0200",
       "kill_mob": "2022-05-28 23:23:27 +0200",
       "naga": "2022-05-28 23:27:52 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2022-05-29 00:34:58 +0200"
     },
     "done": true
   },
@@ -91,15 +97,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2022-05-29 17:45:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2022-05-27 17:42:27 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/mossy_stonebrick": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_mossy_cobblestone": "2022-05-28 23:34:36 +0200"
+      "has_planks": "2022-05-28 21:44:41 +0200"
     },
     "done": true
   },
@@ -109,9 +121,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "minecraft:recipes/building_blocks/mossy_stonebrick": {
     "criteria": {
-      "has_planks": "2022-05-28 21:44:41 +0200"
+      "has_mossy_cobblestone": "2022-05-28 23:34:36 +0200"
     },
     "done": true
   },
@@ -211,15 +223,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/jukebox": {
-    "criteria": {
-      "has_diamond": "2022-05-28 22:11:15 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2022-05-28 21:52:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2022-05-28 22:11:15 +0200"
     },
     "done": true
   },
@@ -229,21 +241,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2022-05-29 17:20:05 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2022-05-28 23:46:46 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/food/cake": {
-    "criteria": {
-      "has_egg": "2022-05-29 00:50:27 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2022-05-28 22:56:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2022-05-29 00:50:27 +0200"
     },
     "done": true
   },
@@ -288,15 +306,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/brown_banner": {
-    "criteria": {
-      "has_brown_wool": "2022-05-28 23:26:15 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2022-05-28 22:06:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_banner": {
+    "criteria": {
+      "has_brown_wool": "2022-05-28 23:26:15 +0200"
     },
     "done": true
   },
@@ -321,6 +339,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2022-05-28 22:06:14 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/twilight_scepter": {
+    "criteria": {
+      "scepter": "2022-05-29 17:29:44 +0200"
     },
     "done": true
   },
@@ -378,6 +402,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/maps": {
+    "criteria": {
+      "0": "2022-05-29 17:31:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2022-05-28 23:34:36 +0200"
@@ -396,15 +426,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_shovel": {
-    "criteria": {
-      "has_gold_ingot": "2022-05-28 22:43:40 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2022-05-28 22:06:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2022-05-28 22:43:40 +0200"
     },
     "done": true
   },
@@ -429,6 +459,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2022-05-29 00:27:51 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/magic_map": {
+    "criteria": {
+      "magic_map_focus": "2022-05-29 17:31:31 +0200"
     },
     "done": true
   },
@@ -468,15 +504,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_wool": {
-    "criteria": {
-      "has_white_wool": "2022-05-28 22:56:48 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_at_least_9_gold_ingot": "2022-05-28 22:43:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2022-05-28 22:56:48 +0200"
     },
     "done": true
   },
@@ -513,15 +549,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2022-05-28 22:06:14 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2022-05-28 21:45:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2022-05-28 22:06:14 +0200"
     },
     "done": true
   },
@@ -549,15 +585,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2022-05-28 23:00:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2022-05-28 23:57:42 +0200"
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
+  "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
-      "slept_in_bed": "2022-05-28 23:00:40 +0200"
+      "has_log": "2022-05-29 17:45:35 +0200"
     },
     "done": true
   },
@@ -627,15 +669,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2022-05-28 22:06:14 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2022-05-28 21:52:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2022-05-28 22:06:14 +0200"
     },
     "done": true
   },
@@ -681,15 +723,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2022-05-28 21:45:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2022-05-28 22:20:20 +0200"
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_hoe": {
+  "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
-      "has_cobblestone": "2022-05-28 21:45:31 +0200"
+      "has_planks": "2022-05-29 17:45:47 +0200"
     },
     "done": true
   },
@@ -705,15 +753,16 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_shovel": {
+  "minecraft:recipes/combat/spectral_arrow": {
     "criteria": {
-      "has_diamond": "2022-05-28 22:11:15 +0200"
+      "has_glowstone_dust": "2022-05-29 16:25:29 +0200"
     },
     "done": true
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "zombie_villager": "2022-05-28 22:38:52 +0200",
+      "magma_cube": "2022-05-29 15:58:23 +0200",
       "skeleton": "2022-05-28 22:01:03 +0200",
       "silverfish": "2022-05-28 23:51:39 +0200",
       "zombie": "2022-05-28 22:00:33 +0200",
@@ -722,6 +771,12 @@
       "creeper": "2022-05-28 22:39:49 +0200"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2022-05-28 22:11:15 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
@@ -759,21 +814,33 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2022-05-28 22:58:50 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2022-05-28 22:56:48 +0200"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-05-28 22:58:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2022-05-29 17:45:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2022-05-28 23:26:15 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:naga_armors": {
+    "criteria": {
+      "armor": "2022-05-29 17:32:30 +0200"
     },
     "done": true
   },
@@ -1041,15 +1108,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_carpet": {
-    "criteria": {
-      "has_light_blue_wool": "2022-05-28 23:28:24 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-05-28 22:35:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_carpet": {
+    "criteria": {
+      "has_light_blue_wool": "2022-05-28 23:28:24 +0200"
     },
     "done": true
   },
@@ -1059,21 +1126,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2022-05-28 22:43:40 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/fence": {
     "criteria": {
       "has_planks": "2022-05-28 21:44:41 +0200"
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2022-05-28 22:43:40 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2022-05-28 22:06:14 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2022-05-29 16:25:29 +0200"
     },
     "done": true
   },
@@ -1086,6 +1159,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2022-05-28 22:43:40 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2022-05-29 15:54:28 +0200"
     },
     "done": true
   },
@@ -1131,21 +1210,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wooden_slab": {
+    "criteria": {
+      "has_planks": "2022-05-29 17:45:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2022-05-28 23:55:04 +0200"
     },
     "done": true
   },
-  "twilightforest:alt/biomes/mushroom_forest": {
-    "criteria": {
-      "discover": "2022-05-28 23:25:38 +0200"
-    },
-    "done": true
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2022-05-28 21:44:44 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/mushroom_forest": {
+    "criteria": {
+      "discover": "2022-05-28 23:25:38 +0200"
     },
     "done": true
   },
@@ -1185,15 +1270,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
-    "criteria": {
-      "has_bed": "2022-05-28 22:58:50 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/red_concrete_powder": {
     "criteria": {
       "has_gravel": "2022-05-28 22:35:44 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
+    "criteria": {
+      "has_bed": "2022-05-28 22:58:50 +0200"
     },
     "done": true
   },
@@ -1239,6 +1324,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2022-05-29 15:54:28 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2022-05-28 23:57:42 +0200"
@@ -1274,15 +1365,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2022-05-28 23:47:02 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-05-28 22:58:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2022-05-28 23:47:02 +0200"
     },
     "done": true
   },
@@ -1400,9 +1491,21 @@
     },
     "done": true
   },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2022-05-29 17:31:31 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-05-28 22:58:50 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_stone": "2022-05-29 17:18:01 +0200"
     },
     "done": true
   },
