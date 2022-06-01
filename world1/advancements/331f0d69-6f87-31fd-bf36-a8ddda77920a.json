@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2022-06-01 19:58:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2022-05-30 16:24:05 +0200"
@@ -127,6 +133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2022-06-01 19:10:11 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2022-05-27 17:42:37 +0200"
@@ -136,6 +148,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2022-05-30 16:31:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2022-06-01 19:45:10 +0200"
     },
     "done": true
   },
@@ -495,7 +513,9 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_villager": "2022-06-01 19:25:27 +0200",
       "magma_cube": "2022-05-30 16:42:34 +0200",
+      "vindicator": "2022-06-01 23:26:00 +0200",
       "skeleton": "2022-05-30 17:26:34 +0200",
       "zombie": "2022-05-30 16:23:50 +0200",
       "cave_spider": "2022-05-31 00:39:02 +0200",
@@ -910,6 +930,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2022-06-01 23:17:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2022-05-30 16:24:05 +0200"
@@ -991,12 +1017,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "forest": "2022-05-30 18:28:27 +0200",
+      "birch_forest": "2022-06-01 22:46:55 +0200",
       "deep_ocean": "2022-05-31 00:40:31 +0200",
       "beaches": "2022-05-31 00:32:06 +0200",
       "extreme_hills_with_trees": "2022-06-01 00:21:52 +0200",
       "plains": "2022-05-27 17:36:32 +0200",
       "redwood_taiga": "2022-05-27 17:43:52 +0200",
       "taiga": "2022-05-27 17:43:42 +0200",
+      "birch_forest_hills": "2022-06-01 22:47:02 +0200",
       "ocean": "2022-05-31 00:23:38 +0200",
       "extreme_hills": "2022-05-30 16:25:02 +0200",
       "roofed_forest": "2022-06-01 00:08:12 +0200",
@@ -1074,6 +1102,12 @@
   "minecraft:recipes/building_blocks/brown_stained_glass": {
     "criteria": {
       "has_glass": "2022-05-31 13:23:33 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2022-06-01 23:17:53 +0200"
     },
     "done": true
   },
@@ -2020,6 +2054,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2022-06-01 23:17:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2022-05-30 16:36:24 +0200"
@@ -2219,9 +2259,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2022-06-01 19:58:53 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/maze_map": {
     "criteria": {
       "maze_map_focus": "2022-05-31 21:20:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_iron_nugget": "2022-06-01 19:05:05 +0200"
     },
     "done": true
   },
@@ -2291,6 +2343,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2022-06-01 19:58:53 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-05-30 16:24:34 +0200"
@@ -2306,6 +2364,12 @@
   "minecraft:husbandry/breed_an_animal": {
     "criteria": {
       "bred_cow": "2022-05-30 18:53:00 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stonebrick": {
+    "criteria": {
+      "has_stone": "2022-06-01 23:17:53 +0200"
     },
     "done": true
   },

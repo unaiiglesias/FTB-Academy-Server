@@ -1,89 +1,14 @@
-[00:02:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XtrikeGamer55 has made the advancement [Inner Arts]
-[00:05:53] [Server thread/WARN] [net.minecraft.network.NetHandlerPlayServer]: XtrikeGamer55 moved wrongly!
-[00:12:29] [Server thread/WARN] [FML]: Quark loaded a new chunk [8, 81] in dimension 0 (overworld) while populating chunk [8, 80], causing cascading worldgen lag.
-[00:12:29] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:12:50] [Server thread/WARN] [FML]: Quark loaded a new chunk [15, 77] in dimension 0 (overworld) while populating chunk [14, 77], causing cascading worldgen lag.
-[00:12:50] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:14:49] [Server thread/WARN] [FML]: Quark loaded a new chunk [22, 66] in dimension 0 (overworld) while populating chunk [22, 65], causing cascading worldgen lag.
-[00:14:49] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:21:08] [Server thread/WARN] [FML]: Quark loaded a new chunk [15, 101] in dimension 0 (overworld) while populating chunk [14, 101], causing cascading worldgen lag.
-[00:21:08] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
-[00:27:40] [Server thread/INFO] [FTB Utilities]: XtrikeGamer55 is now AFK
-[00:28:20] [Server thread/INFO] [FTB Utilities]: XtrikeGamer55 is no longer AFK
-[00:32:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XtrikeGamer55: Stopping the server]
-[00:32:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[00:32:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[00:32:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
-[00:32:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world1'/overworld
-[00:32:44] [Server thread/INFO] [FML]: Unloading dimension 0
-[00:32:44] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
-[00:32:44] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
-[00:32:44] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
-[00:32:44] [Server Shutdown Thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XtrikeGamer55 lost connection: Server closed
-[00:32:44] [Server Shutdown Thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XtrikeGamer55 left the game
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: Exception caught during firing event net.minecraftforge.fml.common.gameevent.PlayerEvent$PlayerLoggedOutEvent@e629c95:
-java.lang.RuntimeException: Cannot Hotload Dim: Overworld is not Loaded!
-	at net.minecraftforge.common.DimensionManager.initDimension(DimensionManager.java:248) ~[DimensionManager.class:?]
-	at net.minecraft.server.MinecraftServer.getWorld(MinecraftServer.java:832) ~[MinecraftServer.class:?]
-	at net.quetzi.morpheus.helpers.MorpheusEventHandler.loggedOutEvent(MorpheusEventHandler.java:38) ~[MorpheusEventHandler.class:?]
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1018_MorpheusEventHandler_loggedOutEvent_PlayerLoggedOutEvent.invoke(.dynamic) ~[?:?]
-	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90) ~[ASMEventHandler.class:?]
-	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182) [EventBus.class:?]
-	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedOut(FMLCommonHandler.java:580) [FMLCommonHandler.class:?]
-	at net.minecraft.server.management.PlayerList.playerLoggedOut(PlayerList.java:388) [pl.class:?]
-	at net.minecraft.network.NetHandlerPlayServer.onDisconnect(NetHandlerPlayServer.java:853) [pa.class:?]
-	at net.minecraft.network.NetworkManager.handleDisconnection(NetworkManager.java:453) [gw.class:?]
-	at net.minecraft.network.NetHandlerPlayServer$2.run(NetHandlerPlayServer.java:291) [pa$2.class:?]
-	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source) [?:1.8.0_321]
-	at net.minecraft.server.MinecraftServer.callFromMainThread(MinecraftServer.java:1383) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer.addScheduledTask(MinecraftServer.java:1395) [MinecraftServer.class:?]
-	at net.minecraft.network.NetHandlerPlayServer.disconnect(NetHandlerPlayServer.java:287) [pa.class:?]
-	at net.minecraft.server.management.PlayerList.removeAllPlayers(PlayerList.java:1084) [pl.class:?]
-	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:431) [MinecraftServer.class:?]
-	at net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579) [MinecraftServer$4.class:?]
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: Index: 18 Listeners:
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 0: HIGHEST
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 1: ASM: me.ichun.mods.ichunutil.common.core.event.EventHandlerServer@4f3d7844 onPlayerLogout(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 2: NORMAL
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 3: ASM: class org.orecruncher.dsurround.network.Network clientDisconnect(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 4: ASM: class com.feed_the_beast.ftblib.lib.data.Universe onPlayerLoggedOut(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 5: ASM: class com.feed_the_beast.mods.ftbbackups.FTBBackups onPlayerLoggedOut(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 6: ASM: class dev.latvian.kubejs.player.KubeJSPlayerEventHandler loggedOut(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 7: ASM: class twilightforest.TFEventListener onPlayerLogout(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 8: ASM: crafttweaker.mc1120.events.CommonEventHandler@7b9d519c onPlayerLoggedOut(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 9: ASM: baubles.common.event.EventHandlerEntity@1e1639ae onPlayerLoggedOut(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 10: ASM: vazkii.quark.tweaks.feature.JumpBoostStepAssist@1438d4f5 playerLoggedOut(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 11: ASM: codechicken.enderstorage.network.TankSynchroniser@e838ec3 onPlayerLogout(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 12: ASM: me.ichun.mods.hats.common.core.EventHandlerServer@106bfdaf onPlayerLogout(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 13: ASM: vazkii.botania.common.item.equipment.bauble.ItemTravelBelt@4cfff604 playerLoggedOut(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 14: ASM: vazkii.botania.common.item.equipment.bauble.ItemFlightTiara@37e1864e playerLoggedOut(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 15: ASM: hellfirepvp.astralsorcery.common.event.listener.EventHandlerNetwork@33b2a630 onLogout(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 16: ASM: tonius.simplyjetpacks.handler.SyncHandler@56d8ab7e onPlayerLoggedOut(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 17: ASM: com.jaquadro.minecraft.storagedrawers.StorageDrawers@2186b5f onPlayerDisconnect(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/ERROR] [FML]: 18: ASM: net.quetzi.morpheus.helpers.MorpheusEventHandler@738ee8e7 loggedOutEvent(Lnet/minecraftforge/fml/common/gameevent/PlayerEvent$PlayerLoggedOutEvent;)V
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: com.google.common.util.concurrent.UncheckedExecutionException: java.lang.RuntimeException: Cannot Hotload Dim: Overworld is not Loaded!
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at com.google.common.util.concurrent.Futures.wrapAndThrowUnchecked(Futures.java:1329)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at com.google.common.util.concurrent.Futures.getUnchecked(Futures.java:1314)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.network.NetHandlerPlayServer.func_194028_b(NetHandlerPlayServer.java:287)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.server.management.PlayerList.func_72392_r(PlayerList.java:1084)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServer.java:431)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.server.MinecraftServer$4.run(MinecraftServer.java:1579)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: Caused by: java.lang.RuntimeException: Cannot Hotload Dim: Overworld is not Loaded!
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraftforge.common.DimensionManager.initDimension(DimensionManager.java:248)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.server.MinecraftServer.getWorld(MinecraftServer.java:832)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.quetzi.morpheus.helpers.MorpheusEventHandler.loggedOutEvent(MorpheusEventHandler.java:38)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler_1018_MorpheusEventHandler_loggedOutEvent_PlayerLoggedOutEvent.invoke(.dynamic)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraftforge.fml.common.eventhandler.ASMEventHandler.invoke(ASMEventHandler.java:90)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraftforge.fml.common.eventhandler.EventBus.post(EventBus.java:182)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraftforge.fml.common.FMLCommonHandler.firePlayerLoggedOut(FMLCommonHandler.java:580)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.server.management.PlayerList.playerLoggedOut(PlayerList.java:388)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.network.NetHandlerPlayServer.onDisconnect(NetHandlerPlayServer.java:853)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.network.NetworkManager.handleDisconnection(NetworkManager.java:453)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.network.NetHandlerPlayServer$2.run(NetHandlerPlayServer.java:291)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.server.MinecraftServer.callFromMainThread(MinecraftServer.java:1383)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.server.MinecraftServer.addScheduledTask(MinecraftServer.java:1395)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.network.NetHandlerPlayServer.disconnect(NetHandlerPlayServer.java:287)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.server.management.PlayerList.removeAllPlayers(PlayerList.java:1084)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:431)
-[00:32:44] [Server Shutdown Thread/INFO] [STDERR]: [java.lang.ThreadGroup:uncaughtException:-1]: 	... 1 more
+[00:22:06] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XtrikeGamer55 lost connection: Disconnected
+[00:22:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XtrikeGamer55 left the game
+[00:22:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saving...
+[00:22:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Saved the world
+[00:22:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: Stopping the server
+[00:22:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:22:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:22:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:22:27] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world1'/overworld
+[00:22:27] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:22:27] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
+[00:22:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:22:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:22:27] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
