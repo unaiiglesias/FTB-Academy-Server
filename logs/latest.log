@@ -1,0 +1,8 @@
+[00:00:44] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XtrikeGamer55: Stopping the server]
+[00:00:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
+[00:00:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving players
+[00:00:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving worlds
+[00:00:44] [Server thread/INFO] [net.minecraft.server.MinecraftServer]: Saving chunks for level 'world1'/overworld
+[00:00:45] [Server thread/INFO] [FML]: Unloading dimension 0
+[00:00:45] [Server thread/INFO] [Actually Additions]: Unloaded WorldData!
+[00:00:45] [Server Shutdown Thread/INFO] [net.minecraft.server.MinecraftServer]: Stopping server
