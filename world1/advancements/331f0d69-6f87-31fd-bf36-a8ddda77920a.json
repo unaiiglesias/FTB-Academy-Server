@@ -127,6 +127,12 @@
     },
     "done": true
   },
+  "botania:main/generating_flower": {
+    "criteria": {
+      "code_triggered": "2022-06-07 20:36:23 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2022-05-30 15:51:48 +0200"
@@ -1926,6 +1932,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2022-05-30 15:54:28 +0200"
+    },
+    "done": true
+  },
+  "botania:main/tiny_potato_pet": {
+    "criteria": {
+      "code_triggered": "2022-06-07 20:16:58 +0200"
     },
     "done": true
   },
