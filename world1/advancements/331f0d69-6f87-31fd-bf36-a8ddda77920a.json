@@ -1503,6 +1503,7 @@
   "twilightforest:arborist": {
     "criteria": {
       "canopy_planks": "2022-05-30 18:55:09 +0200",
+      "giant_log": "2022-06-07 19:05:46 +0200",
       "twilight_oak_sapling": "2022-05-30 19:09:38 +0200",
       "robust_oak_sapling": "2022-05-31 20:39:48 +0200"
     },
@@ -1898,6 +1899,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/giant_tool_set": {
+    "criteria": {
+      "ingredien2": "2022-06-07 19:05:46 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2022-06-02 11:23:07 +0200"
@@ -2234,6 +2241,12 @@
       "maze_wafer": "2022-05-30 20:04:37 +0200"
     },
     "done": false
+  },
+  "twilightforest:alt/treasures/giant_blocks": {
+    "criteria": {
+      "giant_log": "2022-06-07 19:05:46 +0200"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/compass": {
     "criteria": {
