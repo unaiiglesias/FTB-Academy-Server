@@ -29,9 +29,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2022-06-08 11:22:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2022-05-31 14:14:14 +0200"
+    },
+    "done": true
+  },
+  "refinedstorage:drives": {
+    "criteria": {
+      "disk_drive_in_inventory": "2022-06-08 11:39:16 +0200"
     },
     "done": true
   },
@@ -265,6 +277,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_block": {
+    "criteria": {
+      "has_iron_block": "2022-06-08 12:44:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed": {
     "criteria": {
       "has_gray_wool": "2022-05-30 00:47:53 +0200"
@@ -409,6 +427,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2022-06-08 11:22:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2022-05-30 18:32:27 +0200"
@@ -523,6 +547,7 @@
       "magma_cube": "2022-05-30 16:42:34 +0200",
       "vindicator": "2022-06-01 23:26:00 +0200",
       "skeleton": "2022-05-30 17:26:34 +0200",
+      "blaze": "2022-06-08 11:29:36 +0200",
       "zombie": "2022-05-30 16:23:50 +0200",
       "cave_spider": "2022-05-31 00:39:02 +0200",
       "witch": "2022-05-30 21:05:07 +0200",
@@ -840,6 +865,12 @@
     },
     "done": true
   },
+  "refinedstorage:viewing_items": {
+    "criteria": {
+      "grid_in_inventory": "2022-06-08 11:49:12 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_axe": {
     "criteria": {
       "has_iron_ingot": "2022-05-30 16:24:05 +0200"
@@ -1040,13 +1071,16 @@
       "beaches": "2022-05-31 00:32:06 +0200",
       "extreme_hills_with_trees": "2022-06-01 00:21:52 +0200",
       "plains": "2022-05-27 17:36:32 +0200",
+      "savanna": "2022-06-08 12:30:29 +0200",
+      "savanna_rock": "2022-06-08 12:30:36 +0200",
       "redwood_taiga": "2022-05-27 17:43:52 +0200",
       "taiga": "2022-05-27 17:43:42 +0200",
       "birch_forest_hills": "2022-06-01 22:47:02 +0200",
       "ocean": "2022-05-31 00:23:38 +0200",
       "extreme_hills": "2022-05-30 16:25:02 +0200",
       "roofed_forest": "2022-06-01 00:08:12 +0200",
-      "river": "2022-05-30 16:21:58 +0200"
+      "river": "2022-05-30 16:21:58 +0200",
+      "desert": "2022-06-08 12:29:48 +0200"
     },
     "done": false
   },
@@ -1249,6 +1283,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_yellow_dye": "2022-06-08 12:22:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2022-05-30 15:53:29 +0200"
@@ -1351,6 +1391,12 @@
     },
     "done": true
   },
+  "refinedstorage:binding": {
+    "criteria": {
+      "cutting_tool_in_inventory": "2022-06-08 11:37:02 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/fire_jet": {
     "criteria": {
       "fire_swamp": "2022-05-31 20:35:54 +0200"
@@ -1429,6 +1475,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2022-06-08 11:22:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2022-05-30 16:48:25 +0200"
@@ -1500,6 +1552,12 @@
     },
     "done": true
   },
+  "refinedstorage:connecting": {
+    "criteria": {
+      "cable_in_inventory": "2022-06-08 11:51:55 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2022-05-31 13:23:33 +0200"
@@ -1542,6 +1600,12 @@
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2022-05-31 00:18:44 +0200"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_items": {
+    "criteria": {
+      "storage_disk_in_inventory": "2022-06-08 11:46:17 +0200"
     },
     "done": true
   },
@@ -1605,6 +1669,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2022-06-08 11:22:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2022-05-30 16:40:37 +0200"
@@ -1638,6 +1708,12 @@
   "twilightforest:alt/entities/fire_beetle": {
     "criteria": {
       "hurt": "2022-05-31 21:09:25 +0200"
+    },
+    "done": true
+  },
+  "refinedstorage:root": {
+    "criteria": {
+      "controller_in_inventory": "2022-06-08 11:37:13 +0200"
     },
     "done": true
   },
@@ -1758,6 +1834,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2022-05-30 16:24:05 +0200"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading_your_grid": {
+    "criteria": {
+      "crafting_grid_in_inventory": "2022-06-08 11:49:54 +0200"
     },
     "done": true
   },
@@ -1953,6 +2035,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2022-06-08 12:44:37 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-05-30 16:24:34 +0200"
@@ -2076,6 +2164,12 @@
   "botania:main/flower_pickup": {
     "criteria": {
       "flower": "2022-05-30 20:37:00 +0200"
+    },
+    "done": true
+  },
+  "bonsaitrees:root": {
+    "criteria": {
+      "bonsaipot_in_inventory": "2022-06-08 12:08:38 +0200"
     },
     "done": true
   },
@@ -2290,6 +2384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2022-06-08 11:22:47 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/foods/any": {
     "criteria": {
       "1": "2022-05-30 19:49:13 +0200"
@@ -2392,9 +2492,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2022-06-08 11:22:47 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2022-05-27 17:39:05 +0200"
+    },
+    "done": true
+  },
+  "bonsaitrees:grow": {
+    "criteria": {
+      "finished_growing_a_bonsai_tree": "2022-06-08 12:10:13 +0200"
     },
     "done": true
   },
