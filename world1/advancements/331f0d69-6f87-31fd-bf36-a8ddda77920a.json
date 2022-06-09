@@ -463,6 +463,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/armor_stand": {
+    "criteria": {
+      "has_stone_slab": "2022-06-10 01:34:44 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2022-05-30 15:49:20 +0200"
@@ -561,11 +567,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2022-06-10 00:03:24 +0200",
       "wither_skeleton": "2022-06-08 21:14:14 +0200",
       "zombie_villager": "2022-06-01 19:25:27 +0200",
       "magma_cube": "2022-05-30 16:42:34 +0200",
       "vindicator": "2022-06-01 23:26:00 +0200",
       "skeleton": "2022-05-30 17:26:34 +0200",
+      "husk": "2022-06-10 01:44:45 +0200",
       "blaze": "2022-06-08 11:29:36 +0200",
       "zombie": "2022-05-30 16:23:50 +0200",
       "cave_spider": "2022-05-31 00:39:02 +0200",
@@ -1138,6 +1146,8 @@
       "deep_ocean": "2022-05-31 00:40:31 +0200",
       "beaches": "2022-05-31 00:32:06 +0200",
       "extreme_hills_with_trees": "2022-06-01 00:21:52 +0200",
+      "desert_hills": "2022-06-10 01:36:45 +0200",
+      "forest_hills": "2022-06-10 01:35:47 +0200",
       "plains": "2022-05-27 17:36:32 +0200",
       "savanna": "2022-06-08 12:30:29 +0200",
       "savanna_rock": "2022-06-08 12:30:36 +0200",
