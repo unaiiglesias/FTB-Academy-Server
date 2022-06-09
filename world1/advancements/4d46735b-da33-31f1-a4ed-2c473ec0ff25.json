@@ -326,6 +326,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/hostile_wolf": {
+    "criteria": {
+      "slay": "2022-06-08 21:56:17 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/scepters": {
     "criteria": {
       "2": "2022-05-28 23:47:43 +0200"
@@ -483,6 +489,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2022-05-27 17:38:31 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2022-06-08 21:49:26 +0200"
     },
     "done": true
   },
@@ -925,6 +937,12 @@
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2022-05-30 18:38:26 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2022-06-08 21:49:26 +0200"
     },
     "done": true
   },
@@ -1633,6 +1651,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "twilight_oak_log": "2022-06-08 21:58:10 +0200",
       "twilight_oak_sapling": "2022-05-28 23:27:10 +0200",
       "tower_wood": "2022-06-04 21:35:48 +0200"
     },
@@ -1731,6 +1750,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-06-08 21:30:37 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/magic_map": {
     "criteria": {
       "magic_map_focus": "2022-05-29 17:31:31 +0200"
@@ -1807,6 +1832,12 @@
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2022-05-28 22:11:15 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/twilight_clearing": {
+    "criteria": {
+      "discover": "2022-06-08 21:50:59 +0200"
     },
     "done": true
   },
@@ -1891,6 +1922,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2022-05-28 22:43:40 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/hedge_spider": {
+    "criteria": {
+      "hurt_by_indirect": "2022-06-08 21:56:47 +0200"
     },
     "done": true
   },
@@ -2297,6 +2334,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2022-06-08 21:49:26 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2022-05-28 22:23:00 +0200"
@@ -2381,6 +2424,12 @@
   "simplyjetpacks:vanilla/root_vanilla": {
     "criteria": {
       "code_trigger": "2022-05-27 17:37:16 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/hedge_maze": {
+    "criteria": {
+      "discover": "2022-06-08 21:55:44 +0200"
     },
     "done": true
   },
@@ -2556,6 +2605,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/deep_mushroom_forest": {
+    "criteria": {
+      "discover": "2022-06-08 21:47:56 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2022-05-28 21:52:44 +0200"
@@ -2705,6 +2760,12 @@
   "twilightforest:alt/biomes/twilight_highlands": {
     "criteria": {
       "discover": "2022-05-29 18:30:47 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:hedge": {
+    "criteria": {
+      "hedge_spider": "2022-06-08 21:56:49 +0200"
     },
     "done": true
   },

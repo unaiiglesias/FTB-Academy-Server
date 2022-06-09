@@ -259,6 +259,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2022-06-08 21:14:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2022-05-30 16:24:05 +0200"
@@ -493,6 +499,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_stairs": {
+    "criteria": {
+      "has_quartz_block": "2022-06-08 17:15:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "entered_water": "2022-05-30 16:26:31 +0200"
@@ -541,8 +553,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick": {
+    "criteria": {
+      "has_nether_wart": "2022-06-08 21:14:02 +0200"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "wither_skeleton": "2022-06-08 21:14:14 +0200",
       "zombie_villager": "2022-06-01 19:25:27 +0200",
       "magma_cube": "2022-05-30 16:42:34 +0200",
       "vindicator": "2022-06-01 23:26:00 +0200",
@@ -560,6 +579,12 @@
   "minecraft:recipes/misc/ender_eye": {
     "criteria": {
       "has_blaze_powder": "2022-06-07 12:03:15 +0200"
+    },
+    "done": true
+  },
+  "refinedstorage:storing_externally": {
+    "criteria": {
+      "external_storage_in_inventory": "2022-06-08 16:46:26 +0200"
     },
     "done": true
   },
@@ -637,6 +662,12 @@
     },
     "done": true
   },
+  "refinedstorage:exporting": {
+    "criteria": {
+      "exporter_in_inventory": "2022-06-08 16:41:36 +0200"
+    },
+    "done": true
+  },
   "twilightforest:twilight_hunter": {
     "criteria": {
       "bighorn_sheep": "2022-05-30 19:03:11 +0200"
@@ -664,6 +695,12 @@
   "minecraft:recipes/building_blocks/orange_concrete_powder": {
     "criteria": {
       "has_sand": "2022-05-30 16:40:37 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/foods/hydra_chop": {
+    "criteria": {
+      "food": "2022-06-08 20:51:00 +0200"
     },
     "done": true
   },
@@ -769,6 +806,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_slab": {
+    "criteria": {
+      "has_quartz_block": "2022-06-08 17:15:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_red_flower": "2022-05-30 18:33:42 +0200"
@@ -780,6 +823,12 @@
       "has_planks": "2022-05-30 15:51:48 +0200"
     },
     "done": true
+  },
+  "twilightforest:progress_troll": {
+    "criteria": {
+      "lamp": "2022-06-08 20:56:06 +0200"
+    },
+    "done": false
   },
   "twilightforest:alt/entities/lich": {
     "criteria": {
@@ -919,6 +968,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2022-06-08 17:15:58 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone": {
     "criteria": {
       "has_bone": "2022-05-30 16:27:27 +0200"
@@ -945,6 +1000,7 @@
   },
   "twilightforest:progress_merge": {
     "criteria": {
+      "hydra": "2022-06-08 20:55:50 +0200",
       "snow_queen": "2022-05-30 20:11:13 +0200"
     },
     "done": false
@@ -982,6 +1038,12 @@
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2022-05-30 16:24:05 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fiery_tool_set": {
+    "criteria": {
+      "ingredien3": "2022-06-08 20:56:04 +0200"
     },
     "done": true
   },
@@ -1051,6 +1113,12 @@
     },
     "done": true
   },
+  "twilightforest:progress_knights": {
+    "criteria": {
+      "trophy": "2022-06-08 20:55:50 +0200"
+    },
+    "done": false
+  },
   "minecraft:recipes/brewing/magma_cream": {
     "criteria": {
       "has_blaze_powder": "2022-06-07 12:03:15 +0200"
@@ -1115,6 +1183,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/fiery_blood_tears": {
+    "criteria": {
+      "tools": "2022-06-08 20:56:04 +0200"
+    },
+    "done": true
+  },
   "simplyjetpacks:te/root_te": {
     "criteria": {
       "code_trigger": "2022-05-27 17:36:32 +0200"
@@ -1142,6 +1216,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2022-05-30 15:53:29 +0200"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/fiery_armor_set": {
+    "criteria": {
+      "ingredien3": "2022-06-08 20:56:04 +0200"
     },
     "done": true
   },
@@ -1289,6 +1369,12 @@
     },
     "done": true
   },
+  "refinedstorage:interface_to_the_world": {
+    "criteria": {
+      "interface_in_inventory": "2022-06-08 16:43:04 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2022-05-30 15:53:29 +0200"
@@ -1322,6 +1408,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2022-05-30 16:40:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pillar_quartz_block": {
+    "criteria": {
+      "has_quartz_block": "2022-06-08 17:15:58 +0200"
     },
     "done": true
   },
@@ -1487,6 +1579,12 @@
     },
     "done": true
   },
+  "refinedstorage:upgrading": {
+    "criteria": {
+      "upgrade_in_inventory": "2022-06-08 16:41:42 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_bowl": "2022-05-31 21:21:09 +0200"
@@ -1641,13 +1739,22 @@
   },
   "twilightforest:progress_hydra": {
     "criteria": {
+      "hydra": "2022-06-08 20:55:50 +0200",
+      "trophy": "2022-06-08 20:55:50 +0200",
+      "blood": "2022-06-08 20:55:50 +0200",
       "stroganoff": "2022-05-31 21:21:09 +0200"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2022-05-30 17:31:06 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2022-06-08 21:17:49 +0200"
     },
     "done": true
   },
@@ -1993,6 +2100,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_at_least_9_gold_nugget": "2022-06-08 16:08:19 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lapis_lazuli": {
     "criteria": {
       "has_lapis_block": "2022-06-02 11:23:07 +0200"
@@ -2137,6 +2250,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2022-06-08 21:11:36 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/entities/unstable_ice_core": {
     "criteria": {
       "hurt": "2022-05-30 20:01:18 +0200"
@@ -2214,6 +2333,12 @@
       "has_snowball": "2022-05-30 18:04:31 +0200"
     },
     "done": true
+  },
+  "twilightforest:progress_ur_ghast": {
+    "criteria": {
+      "trophy": "2022-06-08 20:55:51 +0200"
+    },
+    "done": false
   },
   "twilightforest:alt/treasures/yeti_armor_set": {
     "criteria": {
@@ -2429,6 +2554,12 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_at_least_9_iron_nugget": "2022-06-01 19:05:05 +0200"
+    },
+    "done": true
+  },
+  "refinedstorage:importing": {
+    "criteria": {
+      "importer_in_inventory": "2022-06-08 16:41:36 +0200"
     },
     "done": true
   },
