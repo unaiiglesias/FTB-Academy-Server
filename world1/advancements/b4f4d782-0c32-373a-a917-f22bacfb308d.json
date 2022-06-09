@@ -581,6 +581,12 @@
     },
     "done": true
   },
+  "refinedstorage:storing_externally": {
+    "criteria": {
+      "external_storage_in_inventory": "2022-06-09 21:11:52 +0200"
+    },
+    "done": true
+  },
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2022-06-04 22:37:03 +0200"
@@ -1294,6 +1300,12 @@
     },
     "done": true
   },
+  "refinedstorage:wireless": {
+    "criteria": {
+      "wireless_transmitter_in_inventory": "2022-06-09 21:11:45 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2022-05-31 20:29:17 +0200"
@@ -1549,6 +1561,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_obsidian": "2022-05-29 00:22:56 +0200"
+    },
+    "done": true
+  },
+  "refinedstorage:upgrading": {
+    "criteria": {
+      "upgrade_in_inventory": "2022-06-09 21:11:45 +0200"
     },
     "done": true
   },
