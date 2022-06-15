@@ -439,6 +439,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2022-06-15 20:50:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2022-05-30 18:32:27 +0200"
@@ -579,6 +585,7 @@
       "cave_spider": "2022-05-31 00:39:02 +0200",
       "witch": "2022-05-30 21:05:07 +0200",
       "spider": "2022-05-30 20:47:36 +0200",
+      "ghast": "2022-06-15 20:49:27 +0200",
       "creeper": "2022-05-30 17:15:34 +0200",
       "enderman": "2022-05-30 19:23:23 +0200"
     },
@@ -1143,6 +1150,7 @@
     "criteria": {
       "forest": "2022-05-30 18:28:27 +0200",
       "birch_forest": "2022-06-01 22:46:55 +0200",
+      "swampland": "2022-06-15 15:55:15 +0200",
       "deep_ocean": "2022-05-31 00:40:31 +0200",
       "beaches": "2022-05-31 00:32:06 +0200",
       "extreme_hills_with_trees": "2022-06-01 00:21:52 +0200",
@@ -1150,6 +1158,7 @@
       "forest_hills": "2022-06-10 01:35:47 +0200",
       "plains": "2022-05-27 17:36:32 +0200",
       "savanna": "2022-06-08 12:30:29 +0200",
+      "jungle_edge": "2022-06-15 16:00:06 +0200",
       "savanna_rock": "2022-06-08 12:30:36 +0200",
       "redwood_taiga": "2022-05-27 17:43:52 +0200",
       "taiga": "2022-05-27 17:43:42 +0200",
@@ -1158,6 +1167,7 @@
       "extreme_hills": "2022-05-30 16:25:02 +0200",
       "roofed_forest": "2022-06-01 00:08:12 +0200",
       "river": "2022-05-30 16:21:58 +0200",
+      "jungle": "2022-06-15 16:00:10 +0200",
       "desert": "2022-06-08 12:29:48 +0200"
     },
     "done": false
@@ -1202,6 +1212,12 @@
   "simplyjetpacks:te/root_te": {
     "criteria": {
       "code_trigger": "2022-05-27 17:36:32 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2022-06-15 21:07:02 +0200"
     },
     "done": true
   },
@@ -1328,6 +1344,12 @@
   "twilightforest:alt/treasures/tools": {
     "criteria": {
       "4": "2022-05-30 18:54:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2022-06-15 21:04:34 +0200"
     },
     "done": true
   },
@@ -2047,6 +2069,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2022-05-30 16:24:34 +0200"
+    },
+    "done": true
+  },
+  "simplyjetpacks:te/jetpack_te1": {
+    "criteria": {
+      "jetpack_te1": "2022-06-15 21:24:35 +0200"
     },
     "done": true
   },
