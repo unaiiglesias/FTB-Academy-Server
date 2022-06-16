@@ -2202,6 +2202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_block": {
+    "criteria": {
+      "has_gold_block": "2022-06-16 23:32:41 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stonebrick": "2022-05-28 23:26:09 +0200"
