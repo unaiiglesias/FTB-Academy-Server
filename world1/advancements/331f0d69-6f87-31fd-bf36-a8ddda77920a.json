@@ -379,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2022-06-16 20:18:59 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_stained_glass": {
     "criteria": {
       "has_glass": "2022-05-31 13:23:33 +0200"
@@ -815,6 +821,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2022-06-16 21:19:08 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/smoking_block": {
     "criteria": {
       "fire_swamp": "2022-05-31 20:35:54 +0200"
@@ -902,6 +914,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2022-05-30 16:40:37 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2022-06-16 21:19:08 +0200"
     },
     "done": true
   },
@@ -1224,6 +1242,12 @@
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2022-05-30 15:53:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2022-06-16 21:19:08 +0200"
     },
     "done": true
   },
@@ -1822,6 +1846,7 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
+      "bred_sheep": "2022-06-16 21:19:20 +0200",
       "bred_cow": "2022-05-30 18:53:00 +0200"
     },
     "done": false
