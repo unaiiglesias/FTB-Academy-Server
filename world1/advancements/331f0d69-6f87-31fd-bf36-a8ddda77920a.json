@@ -1086,6 +1086,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2022-06-21 02:30:32 +0200"
+    },
+    "done": true
+  },
   "twilightforest:alt/major_landmarks/hollow_hills": {
     "criteria": {
       "2": "2022-05-30 20:14:51 +0200"
@@ -1371,6 +1377,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-06-21 02:30:32 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond": {
     "criteria": {
       "has_diamond_block": "2022-06-15 21:04:34 +0200"
@@ -1512,6 +1524,12 @@
   "twilightforest:alt/entities/yeti_alpha": {
     "criteria": {
       "hurt": "2022-05-30 19:33:11 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2022-06-21 02:30:32 +0200"
     },
     "done": true
   },
